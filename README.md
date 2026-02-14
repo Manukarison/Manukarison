@@ -2,8 +2,12 @@
 ### Digital Craftsman | Developer | Creator
 
 <p align="left">
- <img src="https://img.shields.io/badge/FOLLOW-blue?style=for-the-badge&logo=github&logoColor=white" />
- <img src="https://img.shields.io/badge/PROJECTS-orange?style=for-the-badge&logo=github-actions&logoColor=white" />
+ <a href="https://github.com/Manukarison">
+  <img src="https://img.shields.io/badge/FOLLOW-blue?style=for-the-badge&logo=github&logoColor=white" />
+ </a>
+ <a href="https://github.com/Manukarison?tab=repositories">
+  <img src="https://img.shields.io/badge/PROJECTS-orange?style=for-the-badge&logo=github-actions&logoColor=white" />
+ </a>
 </p>
 
 ---
@@ -16,13 +20,3 @@
 </p>
 
 ---
-
-### 📊 My GitHub Stats
-<p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Manukarison&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</p>
-
----
-
-### 📬 Connect with me
-[Insert your Telegram, LinkedIn, or Email links here!]
